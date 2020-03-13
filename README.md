@@ -1,8 +1,10 @@
 # website
 
+Trying out various Github features.
+
 [www.richardyang.ca](www.richardyang.ca)
 
-[Resume](resume.pdf
+[Resume](resume.pdf)
 
 [Portfolio](portfolio.pdf)
 
