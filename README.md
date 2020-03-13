@@ -2,7 +2,7 @@
 
 Trying out various Github features.
 
-[www.richardyang.ca](www.richardyang.ca)
+[www.richardyang.ca](https://www.richardyang.ca)
 
 [Resume](resume.pdf)
 
@@ -10,5 +10,5 @@ Trying out various Github features.
 
 [LinkedIn](https://www.linkedin.com/in/rl2yang/)
 
-[email](me@richardyang.ca)
+[email](mailto:me@richardyang.ca)
 
